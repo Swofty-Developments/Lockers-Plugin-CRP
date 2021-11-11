@@ -1,0 +1,4 @@
+name: lockers
+description:
+version: 1.0
+main: me.conutik.lockers.Main

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Lockers:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lockers_jar</output-path>
+    <root id="archive" name="Lockers.jar">
+      <element id="module-output" name="Lockers" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../spigot-1.16.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
